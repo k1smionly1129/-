@@ -3,7 +3,7 @@
   "name": "缘溪行",
   "$schema": "https://json.schemastore.org/chrome-manifest.json",
   "version": "0.1.0",
-  "description": "My Chrome Extension",
+  "description": "缘溪行，忘路之远近",
   "icons": {
     "16": "icons/icon_16.png",
     "32": "icons/icon_32.png",
