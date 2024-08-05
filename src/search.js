@@ -1,5 +1,5 @@
 const SEARCH_URL = [
-  "https://www.baidu.com/s?ie=UTF-8&wd=",
+  // "https://www.baidu.com/s?ie=UTF-8&wd=",
   "https://cn.bing.com/search?q=",
 ];
 
