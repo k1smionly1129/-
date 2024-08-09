@@ -68,7 +68,7 @@ span {
 .note {
   position: absolute;
   width: 24vh;
-  height: 26vh;
+  height: max-content;
   background-color: rgba(0, 50, 107, 0.631);
   cursor: move; /* 设置鼠标指针为移动手柄 */
   resize: both; /* 启用元素缩放功能 */
@@ -100,6 +100,7 @@ span {
 }
 textarea {
   width: 100%;
+  min-height: 26vh;
   overflow-x: hidden;
   border: none;
   outline: none;
